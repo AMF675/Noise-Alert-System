@@ -12,4 +12,4 @@ Working: *Noise Detection: A microphone sensor captures the ambient noise. *Data
 
 NOTE: the SHA1Fingerprint changes every year, so visit (https://api.twilio.com/) to view the fingerprint, the connection will not be esablishes unless the fingerprint matches.
 
-referneces: https://www.youtube.com/watch?v=SjT_yLsVGiI https://www.instructables.com/Send-an-SMS-Using-an-ESP8266/
+referneces: https://www.youtube.com/watch?v=SjT_yLsVGiI & https://www.instructables.com/Send-an-SMS-Using-an-ESP8266/
